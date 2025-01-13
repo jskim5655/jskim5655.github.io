@@ -2,7 +2,7 @@
 title: 1. 타동사 오해 자동사
 date: 2025-01-13 13:04:00 +09:00
 categories: [English, Grammar]
-tags: [grammar]		# TAG는 반드시 소문자로 이루어져야함!
+tags: [verb]		# TAG는 반드시 소문자로 이루어져야함!
 ---
 
 1. graduate 졸업하다 (from) - 자동사
