@@ -16,7 +16,7 @@ timezone: Asia/Seoul  # 상단 주소 확인
 
 title: JuneSeo Kim # 좌상단 아바타 밑에 큰 글씨
 
-tagline: CAM Lab # title 밑에 글씨
+tagline: 기계공학도 # title 밑에 글씨
 
 description: >- # 검색어를 위한 설정
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
